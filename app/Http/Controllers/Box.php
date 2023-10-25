@@ -8,7 +8,7 @@ class Box extends Controller
 {
     public function coba()
     {
-       echo "ini controller coba";
+       echo "ini controller cobain";
     }
     /**
      * Display a listing of the resource.
